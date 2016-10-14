@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Civ5Package>
+	<Priority>300</Priority>
+	<Name>
+		<Value language="en_US">My Mod</Value>
+		<Value language="fr_FR">Mon Mod</Value>
+	</Name>
+	<Description>
+		<Value language="en_US">My own mod.</Value>
+	</Description>
+	<UISkin name="Expansion2Primary" set="Expansion2" platform="Common">
+		<Skin>
+			<Directory>UI/InGame</Directory>
+		</Skin>
+	</UISkin>
+</Civ5Package>
